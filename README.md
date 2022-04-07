@@ -9,6 +9,9 @@
 <!-- - 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a> -->
 - 🌱 &nbsp; Aprendendo mais sobre **Typescript, Sass, Next.js e C#**.
 
+
+<br/>
+
 ## :rocket: &nbsp;Minhas Skills
 
 **Front-End**
@@ -60,6 +63,10 @@
 </a>
 
 <br/>
+
+## Hack The Box Profile
+[![HackTheBox](https://www.hackthebox.com/badge/image/58032)](https://app.hackthebox.com/profile/58032)
+
 
 ## :earth_americas: &nbsp;Onde me encontrar
 
