@@ -72,5 +72,5 @@
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raulval/)](https://www.linkedin.com/in/raulval/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/raul_val)](https://t.me/raul_val)
-[![Email](https://img.shields.io/badge/raulval@ctemplar.com-8B89CC?style=for-the-badge&logo=email&logoColor=white&link=mailto:raulval@ctemplar.com)](mailto:raulval@ctemplar.com)
+[![Email](https://img.shields.io/badge/raulval@pm.me-8B89CC?style=for-the-badge&logo=email&logoColor=white&link=mailto:raulval@pm.me)](mailto:raulval@pm.me)
 [![GitHub raulval]( https://img.shields.io/github/followers/raulval?label=follow&style=for-the-badge)](https://github.com/raulval)
