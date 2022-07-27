@@ -6,8 +6,8 @@
 
 - 🤔 &nbsp; Desenvolvedor Front-End explorando novas tecnologias, entusiasta em Cybersecurity e CTF Player @ <a href="https://app.hackthebox.com/profile/58032">HackTheBox</a>.
 - 🎓 &nbsp; Estudando **Engenharia de Software** na <a href="http://www.utfpr.edu.br/">UTFPR-CP</a>.
-<!-- - 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a> -->
-- 🌱 &nbsp; Aprendendo mais sobre **Typescript, Sass, Next.js e C#**.
+- 💼 &nbsp; Trabalhando como **Estagiário em Desenvolvimento Front-End** na <a href="https://luby.com.br/">Luby</a>.
+- 🌱 &nbsp; Aprendendo mais sobre **Next.js, Cypress, Blockchain**.
 
 
 <br/>
@@ -17,6 +17,7 @@
 **Front-End**
   
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -55,11 +56,11 @@
 <br/>
 
 <a href="https://github.com/raulval">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulval&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulval&theme=dracula&hide_langs_below=1&layout=compact&langs_count=8" />
 </a>
 
 <a href="https://github.com/raulval">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raulval&theme=dracula&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raulval&theme=dracula&show_icons=true&count_private=true" />
 </a>
 
 <br/>
