@@ -4,10 +4,10 @@
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-- 🤔 &nbsp; Desenvolvedor Front-End explorando novas tecnologias, entusiasta em Cybersecurity e CTF Player @ <a href="https://app.hackthebox.com/profile/58032">HackTheBox</a>.
+- 💻 &nbsp; Desenvolvedor Front-End explorando novas tecnologias, entusiasta em Cybersecurity e CTF Player @ <a href="https://app.hackthebox.com/profile/58032">HackTheBox</a>.
 - 🎓 &nbsp; Estudando **Engenharia de Software** na <a href="http://www.utfpr.edu.br/">UTFPR-CP</a>.
-- 💼 &nbsp; Trabalhando como **Estagiário em Desenvolvimento Front-End** na <a href="https://luby.com.br/">Luby</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Next.js, Cypress, Blockchain**.
+- 💼 &nbsp; Trabalhando como **Desenvolvedor Front-End** na <a href="https://luby.com.br/">Luby</a>.
+- 🌱 &nbsp; Aprendendo mais sobre **Nest, GraphQL e Blockchain**.
 
 
 <br/>
@@ -33,8 +33,7 @@
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
-  ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![AdonisJS](https://img.shields.io/badge/AdonisJS-6352EC?style=for-the-badge&logo=adonisjs)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
