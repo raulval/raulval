@@ -7,7 +7,7 @@
 - 💻 &nbsp; Desenvolvedor Front-End explorando novas tecnologias, entusiasta em Cybersecurity e CTF Player @ <a href="https://app.hackthebox.com/profile/58032">HackTheBox</a>.
 - 🎓 &nbsp; Estudando **Engenharia de Software** na <a href="http://www.utfpr.edu.br/">UTFPR-CP</a>.
 - 💼 &nbsp; Trabalhando como **Desenvolvedor Front-End** na <a href="https://luby.com.br/">Luby</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Nest, GraphQL e Blockchain**.
+- 🌱 &nbsp; Aprendendo mais sobre **SolidJS, Flutter e Blockchain**.
 
 
 <br/>
@@ -25,7 +25,9 @@
   ![TypeScript](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwindcss)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  
   
   
 **Back-End**
@@ -33,6 +35,8 @@
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/GraphQL-e10098?style=for-the-badge&logo=graphql&logoColor=white)
+  ![Prisma](https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma)
   ![AdonisJS](https://img.shields.io/badge/AdonisJS-6352EC?style=for-the-badge&logo=adonisjs)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
