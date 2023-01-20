@@ -61,11 +61,11 @@
 <br/>
 
 <a href="https://github.com/raulval">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulval&theme=dracula&hide_langs_below=1&layout=compact&langs_count=8" />
+  <img align="center" src="https://bellomia-readme-stats.vercel.app/api/top-langs/?username=raulval&theme=dracula&hide_langs_below=1&layout=compact&langs_count=8" />
 </a>
 
 <a href="https://github.com/raulval">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raulval&theme=dracula&show_icons=true&count_private=true&include_all_commits=true" />
+  <img align="center" src="https://bellomia-readme-stats.vercel.app/api?username=raulval&theme=dracula&show_icons=true&count_private=true&include_all_commits=true" />
 </a>
 
 <br/>
