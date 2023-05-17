@@ -7,7 +7,7 @@
 - 💻 &nbsp; Desenvolvedor Front-End explorando novas tecnologias, entusiasta em Cybersecurity e CTF Player @ <a href="https://app.hackthebox.com/profile/58032">HackTheBox</a>.
 - 🎓 &nbsp; Estudando **Engenharia de Software** na <a href="http://www.utfpr.edu.br/">UTFPR-CP</a>.
 - 💼 &nbsp; Trabalhando como **Desenvolvedor Front-End** na <a href="https://luby.com.br/">Luby</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **SolidJS, Flutter e Blockchain**.
+- 🌱 &nbsp; Aprendendo mais sobre **SolidJS, Flutter e NestJS**.
 
 
 <br/>
