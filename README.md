@@ -5,9 +5,9 @@
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 - 💻 &nbsp; Desenvolvedor Front-End explorando novas tecnologias, entusiasta em Cybersecurity e CTF Player @ <a href="https://app.hackthebox.com/profile/58032">HackTheBox</a>.
-- 🎓 &nbsp; Estudando **Engenharia de Software** na <a href="http://www.utfpr.edu.br/">UTFPR-CP</a>.
+- 🎓 &nbsp; **Engenheiro de Software** pela <a href="http://www.utfpr.edu.br/">UTFPR-CP</a>.
 - 💼 &nbsp; Trabalhando como **Desenvolvedor Front-End** na <a href="https://luby.com.br/">Luby</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **SolidJS e Go**.
+- 🌱 &nbsp; Aprendendo mais sobre **Swift e Go**.
 
 
 <br/>
