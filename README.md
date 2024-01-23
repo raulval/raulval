@@ -41,6 +41,7 @@
   ![GraphQL](https://img.shields.io/badge/GraphQL-e10098?style=for-the-badge&logo=graphql&logoColor=white)
   ![Prisma](https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma)
   ![AdonisJS](https://img.shields.io/badge/AdonisJS-6352EC?style=for-the-badge&logo=adonisjs)
+  ![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge&logo=nestjs)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
