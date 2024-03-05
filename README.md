@@ -21,13 +21,15 @@
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Cypress](https://img.shields.io/badge/Cypress-20232A?style=for-the-badge&logo=cypress)
   ![Jest](https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=jest)
+  ![React Query](https://img.shields.io/badge/React_Query-20232A?style=for-the-badge&logo=reactquery)
   ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+  ![Zustand](https://img.shields.io/badge/Zustand-20232A?style=for-the-badge&logo=zustand&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![TypeScript](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript)
   ![Styled-Components](https://img.shields.io/badge/Styled--components-20232A?style=for-the-badge&logo=styled-components)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwindcss)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwindcss)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   
   
@@ -35,7 +37,6 @@
   
 **Back-End**
 
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/GraphQL-e10098?style=for-the-badge&logo=graphql&logoColor=white)
