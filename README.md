@@ -51,6 +51,7 @@
 
 **Utilidades**
 
+  ![Docker](https://img.shields.io/badge/-Docker-0f79ff?style=for-the-badge&logo=docker&logoColor=white)
   ![Insomnia](https://img.shields.io/badge/-Insomnia-593D88?style=for-the-badge&logo=insomnia&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=white)
