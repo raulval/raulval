@@ -1,6 +1,10 @@
 <a href="https://raulval.dev" target="_blank" rel="noopener noreferrer">
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:228B22,100:ADFF2F&text=Raul%20Val&section=header&textBg=false&fontAlign=50&fontAlignY=50&animation=fadeIn&desc=Front-End%20Developer&descSize=22&reversal=false&descAlignY=70&fontColor=FFF"/>
 </a>
+
+<br>
+<br>
+<br>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:228B22,100:7FFF00&text=About%20me&section=header&fontSize=25&fontAlignY=30&fontAlign=15&animation=fadeIn&fontColor=FFF"/>
 
