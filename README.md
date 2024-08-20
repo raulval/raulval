@@ -1,8 +1,6 @@
 <a href="https://raulval.dev" target="_blank" rel="noopener noreferrer">
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:228B22,100:ADFF2F&text=Raul%20Val&section=header&textBg=false&fontAlign=50&fontAlignY=50&animation=fadeIn&desc=Front-End%20Developer&descSize=22&reversal=false&descAlignY=70&fontColor=FFF"/>
 </a>
-
-##
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:228B22,100:7FFF00&text=About%20me&section=header&fontSize=25&fontAlignY=30&fontAlign=15&animation=fadeIn&fontColor=FFF"/>
 
@@ -14,14 +12,13 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
-      Hello! I'm a front-end/mobile developer enthusiastic about new technologies. I hold a degree in <strong>Software Engineering</strong> from UTFPR and am currently working as a <strong>Front-End Developer</strong> at Luby. At the moment, I am exploring the potential of <strong>Next.js</strong> and <strong>React Native + Expo</strong> to create high-quality web and mobile applications. I believe that technology has the power to transform the world, and I am always <strong>seeking to learn</strong> and <strong>develop myself</strong>.
+    <td align="left">
+      Hello! I'm a <strong>front-end/mobile developer</strong> enthusiastic about new technologies. I hold a degree in <strong>Software Engineering</strong> from UTFPR and am currently working as a Front-End Developer at Luby. At the moment, I am exploring the potential of <strong>Next.js</strong> and <strong>React Native + Expo</strong> to create high-quality web and mobile applications. I believe that technology has the power to transform the world, and I am always <strong>seeking to learn</strong> and <strong>develop myself</strong>.
     </td>
   </tr>
 </table>
 
-<br><br>
-<br><br>
+<br>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:228B22,100:7FFF00&text=Skills&section=header&fontSize=25&fontAlignY=30&fontAlign=15&animation=fadeIn&fontColor=FFF"/>
