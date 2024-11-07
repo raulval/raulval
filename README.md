@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td align="left">
-      Hello! I'm a <strong>front-end/mobile developer</strong> enthusiastic about new technologies. I hold a degree in <strong>Software Engineering</strong> from UTFPR and am currently working as a Front-End Developer at Luby. At the moment, I am exploring the potential of <strong>Next.js</strong> and <strong>React Native + Expo</strong> to create high-quality web and mobile applications. I believe that technology has the power to transform the world, and I am always <strong>seeking to learn</strong> and <strong>develop myself</strong>.
+      Hello! I'm a <strong>front-end/mobile developer</strong> enthusiastic about new technologies. I hold a degree in <strong>Software Engineering</strong> from UTFPR and am currently working as a React Native Developer at Fully (Prudential). At the moment, I am exploring the potential of <strong>Next.js</strong> and <strong>React Native + Expo</strong> to create high-quality web and mobile applications. I believe that technology has the power to transform the world, and I am always <strong>seeking to learn</strong> and <strong>develop myself</strong>.
     </td>
   </tr>
 </table>
